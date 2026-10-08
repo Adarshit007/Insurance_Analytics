@@ -20,7 +20,7 @@ SELECT * FROM UNDERWRITING
 
 --Agent ID and name
 --Agent type
---Region
+--Regions
 --Years of experience
 --Commission percentage
 --Number of policies sold
